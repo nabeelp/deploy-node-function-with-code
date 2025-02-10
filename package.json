@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@azure/arm-resources": "^5.2.0",
+    "@azure/identity": "^4.6.0",
+    "axios": "^1.7.9",
+    "uuid": "^11.0.5"
+  }
+}
